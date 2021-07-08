@@ -1,0 +1,9 @@
+{
+    "source": "./grace.opam",
+    "override": {
+        "buildsInSource": "unsafe",
+        "devDependencies": {
+            "@opam/ocaml-lsp-server": "*"
+        }
+    }
+}
